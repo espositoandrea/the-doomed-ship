@@ -1,0 +1,2 @@
+#define VERSION_MAJOR @ship_VERSION_MAJOR@
+#define VERSION_MINOR @ship_VERSION_MINOR@
